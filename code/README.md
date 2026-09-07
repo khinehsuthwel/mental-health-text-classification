@@ -17,8 +17,8 @@ LIME is additionally used to provide interpretations for individual model predic
 
 The project is implemented using Python notebooks and can be run using Google Colab or Jupyter Notebook.
 - Open the required .ipynb file.
-- Upload or provide the required dataset.
-- Run the notebook cells sequentially.
+- Upload or replace the path of the required dataset.
+- Run the notebook cells.
 
 The repository contains five notebooks, with each notebook corresponding to one of the classification pipelines.
 
